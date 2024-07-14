@@ -1,9 +1,9 @@
 @echo off
-title SMB Bruteforce - by Ebola Man
-color A
+title Meliodas Hub Generator
+color 4
 echo.
-set /p ip="Enter IP Address: "
-set /p user="Enter Username: "
+set /p ip="Entrez le non du site "
+set /p user="Entrez combien voulez vous en générez "
 set /p wordlist="Enter Password List: "
 
 set /a count=1
